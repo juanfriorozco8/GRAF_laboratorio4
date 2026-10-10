@@ -1,0 +1,9 @@
+[package]
+name = "graf_laboratorio4"
+version = "0.1.0"
+edition = "2024"
+description = "Proyecto 1 - Parte 1: dibujo de un modelo OBJ con triangulos propios"
+rust-version = "1.85"
+
+[dependencies]
+raylib = "=5.5.1"
